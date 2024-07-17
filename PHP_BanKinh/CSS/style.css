@@ -1,0 +1,255 @@
+a {
+    text-decoration: none;
+    text-align: center;
+}
+a:hover {
+    text-decoration: underline;
+}
+button.btn.btn-outline-success {
+    width: 150px;
+    margin-right: 10px;
+}
+h6{
+    margin-top: 5px;
+}
+
+a.btn.btn-primary.btn-block.justify-content-center {
+    margin-top: 0px;
+}
+
+button.btn.btn-toggle.d-inline-flex.align-items-center.rounded.border {
+    width: 100%;
+    background-color: #00e64d;
+    color: black;
+}
+ul.btn-toggle-nav.list-unstyled.fw-normal.pb-1.small {
+    margin-left: 18%;
+    margin-right: 18%;
+}
+
+.btn-ofMind {
+    background-color: #00e64d;
+}
+
+a.link-body-emphasis.d-inline-flex.text-decoration-none.rounded.justify-content-center {
+    width: 100%;
+    height: 25px;
+    margin-top: 2px;
+    padding: 2px 2px;
+    border-color: #00e64d;
+}
+
+a.link-body-emphasis.d-inline-flex.text-decoration-none.rounded.justify-content-center:hover{
+    background-color: #009933;  
+}
+
+a.link-body-emphasis.d-inline-flex.text-decoration-none.rounded {
+    background-color: #00e64d;
+    color: black;
+    text-align: center;
+}
+
+button.btn.btn-toggle.d-inline-flex.align-items-center.rounded.border:hover {
+    border: 1px;
+    width: 100%;
+    background-color: #009933;
+    color: black;
+}
+
+input#idName {
+    width: 100%;
+    align-content: center;
+    float: none;
+}
+select {
+    width: 41%;
+    float: right;
+    text-align: center;
+}
+.mb-2 {
+    margin-bottom: .5rem !important;
+    margin-top: 5px;
+}
+.quantity-container {
+    display: flex;
+    align-items: center;
+}
+.quantity-container button {
+    width: 30px;
+    height: 30px;
+    font-size: 18px;
+}
+.quantity-container input {
+    width: 50px;
+    text-align: center;
+}
+
+.red{
+    color: red;
+}
+input[type="number"] {
+    float: right;
+    text-align: center;
+    width: 41%;
+}
+input[type="file"] {
+    float: right;
+}
+.custom-img-size {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+button#addPro{
+    width: 95%;
+    margin: 1% auto;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    
+}
+button#submit {
+    width: 20%;
+    margin: 1% auto;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+} 
+
+a#submit {
+    width: 200px;
+    margin: 10px auto;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+} 
+
+button#search_query {
+    width: 100%;
+    margin-top: 2px;
+    height: 25px;
+    padding-bottom: 2px;
+    padding-top: 2px;
+}
+
+button#search_query:hover {
+    width: 100%;
+    margin-top: 2px;
+    background-color: #009933;
+    height: 25px;
+    padding-bottom: 2px;
+    padding-top: 2px;
+}
+
+#preview {
+    max-width: 300px;
+    max-height: 300px;
+    margin: 5px auto 5px auto;
+}
+
+.row.ml-5 {
+    margin: 10px 300px 10px 300px;
+}
+
+.hidden{
+    display: none;
+}
+.border{
+    width: 64%;
+}
+
+#image_database {
+    max-width: 300px; 
+    max-height: 300px; 
+    margin: 10px auto 10px auto;
+}
+
+.error-message {
+    color: red;
+    display: none;
+}
+
+.style_container{
+    margin-right: 2%;
+    margin-left: 2%;
+}
+
+.positon_fixed_header{
+    position: fixed;
+    top: 0; /* Vị trí từ đầu trang web (top) */
+    left: 0; /* Vị trí từ đầu bên trái (left) */
+    /* Các thuộc tính sau đây tùy chọn để điều chỉnh vị trí và hành vi của phần tử */
+    z-index: 1; /* Độ sâu của phần tử trên màn hình */
+    width: 100%; /* Chiều rộng của phần tử */
+    background-color: #ffffff; /* Màu nền của phần tử */
+    padding: 2px; /* Khoảng cách đệm xung quanh nội dung của phần tử */
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+}
+.card-body {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+}
+.card-text {
+    margin-bottom: auto;
+}
+.btn-primary {
+    margin-top: auto;
+}
+
+li.nav-item {
+    margin-left: 25px;
+    margin-right: 25px;
+    
+}
+li.nav-item:hover {
+    margin-left: 25px;
+    margin-right: 25px;
+    background-color: #009933;
+}
+
+
+.verticle-line{
+    border-left: 1px solid black; /* Độ dày và màu sắc của đường kẻ */
+    height: 100%; /* Chiều cao của đường kẻ */
+    position: relative;
+    margin-left: 10px;
+    
+}
+
+/* header */
+.nav-link.active {
+    background-color: yellow;
+    color: black !important;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+} 
+
+.listBaiViet{
+    font-size: large;
+    font-family: sans-serif;
+    margin-top: 3%;
+    margin-left: 5%;
+}
+
+.card-body {
+    margin-top: auto;
+}
+
+
+/* end header */
+
+.insideList{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-decoration: none;
+    color: black;
+}
