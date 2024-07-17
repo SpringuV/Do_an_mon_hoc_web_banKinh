@@ -16,3 +16,5 @@ Các tính năng chính:
   + Code rườm rà
   + Phần backend sẽ ở mục hidden
   + Phần fontend sẽ ở mục Page
+
+=> HỢP VỚI NHỮNG NGƯỜI CẦN GẤP. Project này làm nhóm nhưng chỉ có 1 cá nhân làm
